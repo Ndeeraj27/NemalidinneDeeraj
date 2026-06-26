@@ -1,9 +1,4 @@
----
-layout: default
-title: Deeraj Nemalidinne | Portfolio
----
-
-# Deeraj Nemalidinne
+# Deeraj Nemalidinne 👋
 **Computer Science & Engineering Student | Aspiring Software Engineer**
 
 ---
